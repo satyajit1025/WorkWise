@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="4">
+    <test name="test1">
+        <classes>
+            <class name="test_files.Login_Test">
+            </class>
+        </classes>
+    </test>
+    <test name="test2">
+        <classes>
+            <class name="test_files.Preview_Test">
+            </class>
+        </classes>
+    </test>
+    <test name="test3">
+        <classes>
+            <class name="test_files.Signup_Test">
+            </class>
+        </classes>
+    </test>
+    <test name="test4">
+        <classes>
+            <class name="test_files.Upload_Test">
+            </class>
+        </classes>
+    </test>
+</suite>
