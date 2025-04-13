@@ -28,7 +28,7 @@ This project incorporates both **manual and automation testing** using **Seleniu
 ---
 
 ## 🛠️ Usage Guide
-This project is designed for **testers and developers** to ensure the **quality and performance** of the Luma website. 🏗️🧪
+This project is designed for **testers and developers** to ensure the **quality and performance** of the website.
 
 - **View Test Reports** 📊 - Generate and analyze results
 - **Identify & Log Bugs** 🐞 - Track defects using the bug report document
