@@ -96,6 +96,9 @@ By combining **manual and automation testing** with **POM**, I enhance the **eff
 
 ---
 
+**Video Presentation**
+🔗 Access the video here: [**Presentation**](https://drive.google.com/file/d/1l6OG8116ezaB9xopEZcZC6DBIdGwhMdN/view?usp=sharing)
+
 📌 **For any questions, feel free to reach out!**
 satyajit1025@gmail.com
 
