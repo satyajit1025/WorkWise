@@ -7,11 +7,11 @@ This test covers essential features such as:
 - 🔐 **User Registration & Secure Login**
 - 📦 **File Upload and File Preview**
 
-This test plan outlines the **manual and automation testing** strategy to ensure that all functionalities operate as intended, providing a **user-friendly** and **high-performance** experience across various devices and browsers. 🌍📱💻
+This test plan outlines the **manual and automation testing** strategy to ensure that all functionalities operate as intended, providing a **user-friendly** and **high-performance** experience across various devices and browsers. 
 
 ---
 
-## 🔬 Project Type
+## Project Type
 This project incorporates both **manual and automation testing** using **Selenium**. We leverage the **Page Object Model (POM)** to structure our Selenium automation tests, enhancing **maintainability and reusability**. 🏗️
 
 ### Our Testing Strategy Covers:
@@ -22,12 +22,12 @@ This project incorporates both **manual and automation testing** using **Seleniu
 
 ---
 
-## 🌐 Application Under Test
+## Application Under Test
 🔗 Access the website here: [**Secure File Sharing Website**](https://file-sharing-application.netlify.app/login)
 
 ---
 
-## 🛠️ Usage Guide
+## Usage Guide
 This project is designed for **testers and developers** to ensure the **quality and performance** of the website.
 
 - **View Test Reports** 📊 - Generate and analyze results
@@ -36,7 +36,7 @@ This project is designed for **testers and developers** to ensure the **quality 
 
 ---
 
-## 📂 Directory Structure
+## Directory Structure
 ```
 WorkWise
 │── src
@@ -59,7 +59,7 @@ WorkWise
 ```
 ---
 
-## 🏗️Tech Stack used in this Project
+## Tech Stack used in this Project
 
 <div style="display: flex; align-items: center;">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" />
