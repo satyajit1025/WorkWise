@@ -4,15 +4,15 @@
 Secure File Sharing is a modern, user-friendly file-sharing web application where users can upload files, secure them with a password, and download them using a shareable link.
 
 This test covers essential features such as:
-- 🔐 **User Registration & Secure Login**
-- 📦 **File Upload and File Preview**
+- **User Registration & Secure Login**
+- **File Upload and File Preview**
 
-This test plan outlines the **manual and automation testing** strategy to ensure that all functionalities operate as intended, providing a **user-friendly** and **high-performance** experience across various devices and browsers. 
+This test plan outlines the manual and automation testing strategy to ensure that all functionalities operate as intended, providing a user-friendly and high-performance experience across various devices and browsers. 
 
 ---
 
 ## Project Type
-This project incorporates both **manual and automation testing** using **Selenium**. We leverage the **Page Object Model (POM)** to structure our Selenium automation tests, enhancing **maintainability and reusability**. 🏗️
+This project incorporates both manual and automation testing using Selenium. We leverage the Page Object Model (POM) to structure our Selenium automation tests, enhancing maintainability and reusability. 
 
 ### Our Testing Strategy Covers:
 ✅ **Functionality** - Ensuring core features work correctly </br>
@@ -28,11 +28,11 @@ This project incorporates both **manual and automation testing** using **Seleniu
 ---
 
 ## Usage Guide
-This project is designed for **testers and developers** to ensure the **quality and performance** of the website.
+This project is designed for testers and developers to ensure the quality and performance of the website.
 
-- **View Test Reports** 📊 - Generate and analyze results
-- **Identify & Log Bugs** 🐞 - Track defects using the bug report document
-- **Extend Test Cases** 🏗️ - Add new test cases following the **POM structure**
+- **View Test Reports** - Generate and analyze results
+- **Identify & Log Bugs** - Track defects using the bug report document
+- **Extend Test Cases** - Add new test cases following the POM structure
 
 ---
 
@@ -90,9 +90,9 @@ WorkWise
 ---
 
 ## 🎯 Conclusion
-The **Secure File Sharing** automation testing project ensures a **high-quality, seamless, and secure file-sharing experience**. ✨
+The Secure File Sharing automation testing project ensures a high-quality, seamless, and secure file-sharing experience. 
 
-By combining **manual and automation testing** with **POM**, I enhance the **efficiency, maintainability, and reliability** of our tests. 🚀✅
+By combining manual and automation testing with POM, I enhance the efficiency, maintainability, and reliability of our tests. 
 
 ---
 
